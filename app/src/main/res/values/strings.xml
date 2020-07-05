@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">APPBANHANG</string>
+    <string name="title_activity_thon_tin">Map</string>
+    <string name="search">search</string>
+    <string name="search_hint">search_hint</string>
+</resources>
